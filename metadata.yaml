@@ -1,5 +1,8 @@
 _repo: The-Earl-s-promise-Vol-III-of-3-b-A-novel_70757
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70757-h/images/cover.jpg
 creator:
   author:
     agent_name: Riddell, J. H., Mrs.
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2824
     wikipedia: https://en.wikipedia.org/wiki/Charlotte_Riddell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70757#The-Earl-s-promise-Vol-III-of-3-b-A-novel
 gutenberg_issued: '2023-05-13'
 identifiers:
   gutenberg: '70757'
